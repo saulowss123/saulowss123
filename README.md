@@ -7,11 +7,11 @@
 </div>  
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cgb102000&show_icons=true&count_private=true&hide_border=true&title_color=0000ff&icon_color=0000ff&text_color=c9d1d9&bg_color=0d1117" alt="Saulo Oliveira's GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgb102000&layout=compact&hide_border=true&title_color=0000ff&text_color=0000ff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=saulowss123&show_icons=true&count_private=true&hide_border=true&title_color=0000ff&icon_color=0000ff&text_color=c9d1d9&bg_color=0d1117" alt="Saulo Oliveira's GitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulowss123&layout=compact&hide_border=true&title_color=0000ff&text_color=0000ff&bg_color=0d1117" />
 </div>
 
-[![Saulo Oliveira's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cgb102000&bg_color=000000&color=0000ff&line=0000ff&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Saulo Oliveira's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saulowss123&bg_color=000000&color=0000ff&line=0000ff&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="Black And Grey Professional Technology LinkedIn Banner.gif" />
@@ -21,7 +21,7 @@
   <a href="https://www.instagram.com/saulo.oliveira666.js/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.twitch.tv/cgb102000" target="_blank">
+  <a href="https://www.twitch.tv/saulowss123" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-0000ff?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"> 
   </a>
   <a href="https://discord.gg/eZzQaHHm" target="_blank">
@@ -59,7 +59,7 @@
 
 <div align="center">
 <br><p align="center"><b>Visitor Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{cgb102000}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{saulowss123}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=footer"/>
