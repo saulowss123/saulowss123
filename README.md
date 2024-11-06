@@ -1,36 +1,36 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=Ff0000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Caio+Gabriel;I'M+A+PROGRAMMING+AND+TECHNOLOGY+STUDENT;WELCOME!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Saulo+Oliveira;I'M+A+PROGRAMMING+AND+TECHNOLOGY+STUDENT;WELCOME!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://github.com/cgb102000/cgb102000/blob/main/capa.gif?raw=true" alt="GIF" />
 </div>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cgb102000&show_icons=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117" alt="Caio Gabriel's GitHub stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cgb102000&show_icons=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117" alt="Saulo Oliveira's GitHub stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgb102000&layout=compact&hide_border=true&title_color=ff0000&text_color=ff0000&bg_color=0d1117" />
 </div>
 
-[![Caio Gabriel's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cgb102000&bg_color=000000&color=ff0000&line=ff0000&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Saulo Oliveira's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cgb102000&bg_color=000000&color=ff0000&line=ff0000&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cgb102000&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15&title_color=000000" />
 </p>
 
 <div align="center">  
-  <a href="https://www.instagram.com/caio.gabriel666.js/" target="_blank">
+  <a href="https://www.instagram.com/saulo.oliveira666.js/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href="https://www.twitch.tv/cgb102000" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"> <!-- Cor alterada aqui -->
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"> 
   </a>
   <a href="https://discord.gg/eZzQaHHm" target="_blank">
     <img src="https://img.shields.io/badge/Discord-0000ff?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> 
   </a> 
-  <a href="mailto:caiogabriel10@gmail.com">
+  <a href="mailto:saulooliveira10@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/caio-g-42626a134/" target="_blank">
+  <a href="https://www.linkedin.com/in/saulo-oliveira/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
