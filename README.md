@@ -36,8 +36,8 @@
 </div>
 
 ### Main Skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![AI](https://img.shields.io/badge/-AI-0D1117?style=for-the-badge&logo=robot-framework&labelColor=0D1117&textColor=0D1117)&nbsp;
+![CSS](https://cdn-icons-png.flaticon.com/128/778/778471.png)&nbsp;
+![Banco de dados](https://cdn-icons-png.flaticon.com/128/2906/2906274.png)&nbsp;
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0D1117)&nbsp;
