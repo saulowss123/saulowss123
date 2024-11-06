@@ -14,7 +14,7 @@
 [![Saulo Oliveira's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cgb102000&bg_color=000000&color=0000ff&line=0000ff&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cgb102000&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15&title_color=0000ff" />
+  <img src="Black And Grey Professional Technology LinkedIn Banner.gif" />
 </p>
 
 <div align="center">  
@@ -67,7 +67,7 @@
 
 
 
- snk Cobra do Saulo22cm
+ SNK Cobra do Jaulin
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
 [![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
